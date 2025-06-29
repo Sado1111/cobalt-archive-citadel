@@ -9,3 +9,4 @@
 (define-constant maximum-tag-character-limit u32)
 (define-constant maximum-file-size-bytes u1000000000)
 (define-constant maximum-tags-per-asset u10)
+
